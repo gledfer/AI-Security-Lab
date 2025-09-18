@@ -2,9 +2,9 @@
 
 AI Security Practitioner 
 
-Olá! Meu nome é **Gledson Fernandes** e este repositório documenta minha jornada e experimentos na interseção entre **Segurança Cibernética** e **Inteligência Artificial**.
+Hello! My name is **Gledson Fernandes** and this repository documents my journey and experiments at the intersection of **Cybersecurity** and **Artificial Intelligence**.
 
-Sou um **Information Security Specialist** com mais de 9 anos de experiência em ambientes corporativos de alta complexidade (como **Cielo** e **Atento**), expandindo minha carreira para a especialização em **AI Red Team** e **ML Security**. Meu objetivo é proteger sistemas de IA contra ameaças emergentes, como prompt injection, model evasion e data poisoning.
+I am an **Information Security Specialist** with over 9 years of experience in highly complex corporate environments (such as **Cielo** and **Atento**), and I'm expanding my career to specialize in **AI Red Team** and **ML Security**. My goal is to protect systems against emerging threats like prompt injection, model evasion and data poisoning.
 
 
 ---
@@ -24,17 +24,17 @@ Sou um **Information Security Specialist** com mais de 9 anos de experiência em
 
 ---
 
-## 🧪 Áreas de Pesquisa e Experimentação
+## 🧪 Areas of Research and Experimentation
 
-- **🔓 LLM Security:** Testes de prompt injection e jailbreaking em modelos locais e via API.
-- **🤖 Adversarial ML:** Criação de exemplos adversariais para enganar modelos de classificação.
-- **🛡️ Defensive AI:** Implementação de mitigações para vulnerabilidades em pipelines de ML.
-- **☁️ Cloud Security for AI:** Proteção de ambientes em nuvem (AWS/Azure) que hospedam cargas de trabalho de IA.
-- **📊 Threat Modeling for AI Systems:** Aplicação de metodologias como MITRE ATLAS e OWASP LLM Top 10.
+- **🔓 LLM Security:** Prompt injection and jailbreaking tests on local and API-based models.
+- **🤖 Adversarial ML:** Creation of adversarial examples to deceive classification models.
+- **🛡️ Defensive AI:** Implementation of mitigations for vulnerabilities in ML pipelines.
+- **☁️ Cloud Security for AI:** Protecting cloud environments (AWS/Azure) that host AI workloads.
+- **📊 Threat Modeling for AI Systems:** Application of methodologies like MITRE ATLAS and OWASP LLM Top 10.
 
 ---
 
-## 🛠 Tech Stack & Ferramentas
+## 🛠 Tech Stack & Tools
 
 `Python` `Jupyter Notebooks` `Ollama` `LiteLLM` `Hugging Face` `Azure AI` `AWS SageMaker` `MITRE ATLAS` `OWASP LLM Top 10` `ART` `Semgrep` `Checkov` `Burp Suite`
 
