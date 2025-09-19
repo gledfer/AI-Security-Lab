@@ -40,13 +40,13 @@ I am an **Information Security Specialist** with over 9 years of experience in h
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Featured Projects
 
-| Projeto | Descrição | Status |
+| Projects | Description| Status |
 | :--- | :--- | :--- |
-| [**Prompt Injection Tester**](/prompt-injection) | Um conjunto de scripts para testar a resiliência de LLMs contra ataques de injeção de prompt. | 🚧 Em Desenvolvimento |
-| [**AI Threat Model Repository**](/threat-models) | Uma coleção de modelos de ameaça (usando DRAWIO) para sistemas comuns de IA. | 📖 Em Estudo |
-| [**Cloud Security Scripts**](/cloud-scripts) | Scripts em Python/Bash para automação de segurança em ambientes de nuvem (AWS/Azure). | ✅ Ativo |
+| [**Prompt Injection Tester**](/prompt-injection) | A set of scripts for testing the resilience of LLMs against prompt injection attacks. | 🚧 In Development |
+| [**AI Threat Model Repository**](/threat-models) | A collection of threat models (using DRAWIO) for common AI systems. | 📖 In Study |
+| [**Cloud Security Scripts**](/cloud-scripts) | Python/Bash scripts for security automation in cloud environments (AWS/Azure). | ✅ Active |
 
 ---
 
