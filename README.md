@@ -50,7 +50,7 @@ I am an **Information Security Specialist** with over 9 years of experience in h
 
 ---
 
-## 📚 Certificações & Aprendizado Contínuo
+## 📚 Certification & Continuos Learning
 
 - **MIT Professional Education:** Generative AI: Implications for Business Strategy
 - **AWS:** AI Practitioner - Discovery Day
@@ -59,22 +59,22 @@ I am an **Information Security Specialist** with over 9 years of experience in h
 
 ---
 
-## 🎯 Objetivos para 2025
+## 🎯 Goals for 2025
 
-- [ ] Contribuir para um projeto open-source de segurança de IA.
-- [ ] Publicar um artigo técnico sobre minhas descobertas em testes de prompt injection.
-- [ ] Desenvolver uma ferramenta simples de automação para red team de IA.
-- [ ] Aprofundar conhecimentos em MITRE ATLAS.
+- [ ] Contribute to an open-source AI security project.
+- [ ] Publish a technical article about my findings in prompt injection tests.
+- [ ] Develop a simple automation tool for AI red teams.
+- [ ] Deepen my knowledge of MITRE ATLAS.
 
 ---
 
-## 🤝 Vamos Conectar!
+## 🤝 Let´s connect !
 
-Estou sempre aberto a conversar sobre segurança, IA e oportunidades de colaboração.
+I'm always open to talking about security, AI, and collaboration opportunities.
 
 - **LinkedIn:** [www.linkedin.com/in/gledson-fernandes-d-22914b4b](http://www.linkedin.com/in/gledson-fernandes-d-22914b4b)
 - **E-mail:** gledson.fernandes.santos@gmail.com
 
 ---
 
-> *"A melhor maneira de prever o futuro é criá-lo." - Abraham Lincoln*
+> *"The best way to predict the future is to create it." - Abraham Lincoln*
