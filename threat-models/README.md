@@ -45,4 +45,19 @@ We combine these methodologies into a unified workflow:
 3. **Risk Analysis** → Quantitative and qualitative assessment
 4. **Mitigation Planning** → AI-specific countermeasures
 
+## 🚀 Quick Start
+
+Get started with AI threat modeling in 3 simple steps:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/ai-threat-models.git
+
+# 2. Explore available threat model templates
+cd ai-threat-models/templates/
+ls -la
+
+# 3. Run the basic example analysis
+python examples/basic_threat_analysis.py
+
 
