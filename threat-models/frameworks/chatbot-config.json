@@ -1,0 +1,11 @@
+{
+  "name": "Customer Support Chatbot",
+  "llm_provider": "openai",
+  "sensitive_data": true,
+  "rate_limiting": false,
+  "pii_filtering": true,
+  "authentication": "jwt",
+  "data_retention_days": 30,
+  "model_version": "gpt-4",
+  "max_tokens": 1000
+}
